@@ -1,0 +1,62 @@
+﻿[
+  {
+    "Time": "13:12:04",
+    "Temperature": 0.75,
+    "Rainfall": 26.26,
+    "WindSpeed": 26.33
+  },
+  {
+    "Time": "10:42:04",
+    "Temperature": 1.97,
+    "Rainfall": 15.44,
+    "WindSpeed": 21.86
+  },
+  {
+    "Time": "17:59:04",
+    "Temperature": 0.0,
+    "Rainfall": 48.18,
+    "WindSpeed": 2.91
+  },
+  {
+    "Time": "11:52:04",
+    "Temperature": 7.36,
+    "Rainfall": 44.87,
+    "WindSpeed": 12.48
+  },
+  {
+    "Time": "17:52:04",
+    "Temperature": -4.7,
+    "Rainfall": 14.15,
+    "WindSpeed": 21.85
+  },
+  {
+    "Time": "06:52:04",
+    "Temperature": 27.04,
+    "Rainfall": 1.82,
+    "WindSpeed": 0.91
+  },
+  {
+    "Time": "13:52:04",
+    "Temperature": 13.14,
+    "Rainfall": 13.19,
+    "WindSpeed": 11.92
+  },
+  {
+    "Time": "16:52:04",
+    "Temperature": 24.98,
+    "Rainfall": 3.04,
+    "WindSpeed": 28.98
+  },
+  {
+    "Time": "07:52:04",
+    "Temperature": 3.59,
+    "Rainfall": 43.56,
+    "WindSpeed": 27.96
+  },
+  {
+    "Time": "12:52:04",
+    "Temperature": 26.02,
+    "Rainfall": 10.6,
+    "WindSpeed": 8.33
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "CreateStation",
+    "RelativePath": "api/MeteorologicalService/CreateStation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "station",
+        "Type": "Bl.Models.BlStation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "CreateSummary",
+    "RelativePath": "api/MeteorologicalService/CreateSummary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "GetAllSummaries",
+    "RelativePath": "api/MeteorologicalService/GetAllSummaries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "GetAllStations",
+    "RelativePath": "api/MeteorologicalService/GetStations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "LoadDictionary",
+    "RelativePath": "api/MeteorologicalService/LoadDictionary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "LoadStations",
+    "RelativePath": "api/MeteorologicalService/loadStations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "GetMeasurementsByStation",
+    "RelativePath": "api/MeteorologicalService/station/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "GetMeasurementsByStationandDate",
+    "RelativePath": "api/MeteorologicalService/station/{id}/{date}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

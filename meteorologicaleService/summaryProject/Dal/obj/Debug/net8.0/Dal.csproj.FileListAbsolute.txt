@@ -1,0 +1,112 @@
+C:\Users\משתמש\Desktop\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\משתמש\Desktop\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\משתמש\Desktop\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll
+M:\פרויקט סיכום #c\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+M:\פרויקט סיכום #c\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+M:\פרויקט סיכום #c\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+M:\פרויקט סיכום #c\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+M:\פרויקט סיכום #c\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll
+M:\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+M:\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+M:\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+M:\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+M:\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Dal\obj\Debug\net8.0\ref\Dal.dll

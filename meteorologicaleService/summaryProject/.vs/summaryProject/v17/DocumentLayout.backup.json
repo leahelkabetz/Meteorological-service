@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\services\\blsummaryindicatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\services\\blsummaryindicatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\services\\listmeasurements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\services\\listmeasurements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\services\\blstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\services\\blstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\api\\iblsummaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\api\\iblsummaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\api\\iblstations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\api\\iblstations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\api\\iblcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\api\\iblcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\models\\blstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\models\\blstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\models\\blsummaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\models\\blsummaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\models\\blmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\models\\blmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\bl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE747C29-70F6-4355-BC80-9C6A629848CD}|Bl\\Bl.csproj|solutionrelative:bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\json_files\\101_05.01.2025.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\json_files\\101_05.01.2025.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\server\\controllers\\meteorologicalservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|solutionrelative:server\\controllers\\meteorologicalservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\dalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\dalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\services\\summaryindicatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\services\\summaryindicatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD_\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05E1\u05D9\u05DB\u05D5\u05DD__C_\u05DE\u05D5\u05DB\u05DF_\u05E1\u05D5\u05E4\u05D9\u05D9\u05D9_\u05D1\u05E8\u05D5\u05DA_\u05D4_METEOROLOGICALESERVICE_SUMMARYPROJECT_MEASURINGSTATIONS_DB.MDF/True/SqlTable/dbo.Stations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\models\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\models\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\models\\summaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\models\\summaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\api\\isummaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\api\\isummaryindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\api\\istations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\api\\istations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\api\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\api\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\dal\\json_files\\101_14.12.2024.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37C042AB-7679-4883-8E75-6F5517D73A9D}|Dal\\Dal.csproj|solutionrelative:dal\\json_files\\101_14.12.2024.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|solutionrelative:server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleservice\\summaryproject\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE3AFF46-7C6F-4135-B71C-F9C9045E19DE}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD #c\\summaryProject\\Bl\\Models\\Measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlSummaryIndicatorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Services\\BlSummaryIndicatorService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\BlSummaryIndicatorService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Services\\BlSummaryIndicatorService.cs",
+              "RelativeToolTip": "Bl\\Services\\BlSummaryIndicatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:40:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listMeasurements.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Services\\listMeasurements.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\listMeasurements.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Services\\listMeasurements.cs",
+              "RelativeToolTip": "Bl\\Services\\listMeasurements.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:59:19.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlStationService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Services\\BlStationService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\BlStationService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Services\\BlStationService.cs",
+              "RelativeToolTip": "Bl\\Services\\BlStationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:39:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBLSummaryIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBLSummaryIndicator.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IBLSummaryIndicator.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBLSummaryIndicator.cs",
+              "RelativeToolTip": "Bl\\Api\\IBLSummaryIndicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:59:01.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBLStations.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBLStations.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IBLStations.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBLStations.cs",
+              "RelativeToolTip": "Bl\\Api\\IBLStations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:58:53.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBLCrud.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBLCrud.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IBLCrud.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBLCrud.cs",
+              "RelativeToolTip": "Bl\\Api\\IBLCrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:58:49.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBL.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBL.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IBL.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Api\\IBL.cs",
+              "RelativeToolTip": "Bl\\Api\\IBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:58:31.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlStation.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\BlStation.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\BlStation.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\BlStation.cs",
+              "RelativeToolTip": "Bl\\Models\\BlStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:04:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlSummaryIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\BlSummaryIndicator.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\BlSummaryIndicator.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\BlSummaryIndicator.cs",
+              "RelativeToolTip": "Bl\\Models\\BlSummaryIndicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:11:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mycontext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\mycontext.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\mycontext.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\mycontext.cs",
+              "RelativeToolTip": "Bl\\Models\\mycontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:03:10.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLMeasurement.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\BLMeasurement.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\BLMeasurement.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Models\\BLMeasurement.cs",
+              "RelativeToolTip": "Bl\\Models\\BLMeasurement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:26:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bl",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T13:19:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\BlManager.cs",
+              "RelativeDocumentMoniker": "Bl\\BlManager.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Bl\\BlManager.cs",
+              "RelativeToolTip": "Bl\\BlManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:41:32.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "mycontext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\mycontext.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\mycontext.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\mycontext.cs",
+              "RelativeToolTip": "Dal\\Models\\mycontext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:03:47.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MeteorologicalServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\Controllers\\MeteorologicalServiceController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\MeteorologicalServiceController.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\Controllers\\MeteorologicalServiceController.cs",
+              "RelativeToolTip": "Server\\Controllers\\MeteorologicalServiceController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAIEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:00:41.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "101_05.01.2025.json",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\JSON_FILES\\101_05.01.2025.json",
+              "RelativeDocumentMoniker": "Dal\\JSON_FILES\\101_05.01.2025.json",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\JSON_FILES\\101_05.01.2025.json",
+              "RelativeToolTip": "Dal\\JSON_FILES\\101_05.01.2025.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T21:45:22.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DalManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\DalManager.cs",
+              "RelativeDocumentMoniker": "Dal\\DalManager.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\DalManager.cs",
+              "RelativeToolTip": "Dal\\DalManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:04:40.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:06:30.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Stations.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD_\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05E1\u05D9\u05DB\u05D5\u05DD__C_\u05DE\u05D5\u05DB\u05DF_\u05E1\u05D5\u05E4\u05D9\u05D9\u05D9_\u05D1\u05E8\u05D5\u05DA_\u05D4_METEOROLOGICALESERVICE_SUMMARYPROJECT_MEASURINGSTATIONS_DB.MDF/True/SqlTable/dbo.Stations.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD_\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05E1\u05D9\u05DB\u05D5\u05DD__C_\u05DE\u05D5\u05DB\u05DF_\u05E1\u05D5\u05E4\u05D9\u05D9\u05D9_\u05D1\u05E8\u05D5\u05DA_\u05D4_METEOROLOGICALESERVICE_SUMMARYPROJECT_MEASURINGSTATIONS_DB.MDF/True/SqlTable/dbo.Stations.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-09T10:03:23.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SummaryIndicatorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Services\\SummaryIndicatorService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\SummaryIndicatorService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Services\\SummaryIndicatorService.cs",
+              "RelativeToolTip": "Dal\\Services\\SummaryIndicatorService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:41:21.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Dal.csproj",
+              "RelativeDocumentMoniker": "Dal\\Dal.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Dal.csproj",
+              "RelativeToolTip": "Dal\\Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T18:25:04.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StationService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Services\\StationService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\StationService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Services\\StationService.cs",
+              "RelativeToolTip": "Dal\\Services\\StationService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:41:24.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SummaryIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\SummaryIndicator.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\SummaryIndicator.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\SummaryIndicator.cs",
+              "RelativeToolTip": "Dal\\Models\\SummaryIndicator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:51:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JsonService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Services\\JsonService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\JsonService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Services\\JsonService.cs",
+              "RelativeToolTip": "Dal\\Services\\JsonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:52:19.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Measurement.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\Measurement.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Measurement.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\Measurement.cs",
+              "RelativeToolTip": "Dal\\Models\\Measurement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:52:41.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISummaryIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\ISummaryIndicator.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\ISummaryIndicator.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\ISummaryIndicator.cs",
+              "RelativeToolTip": "Dal\\Api\\ISummaryIndicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:11:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStations.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\IStations.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\IStations.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\IStations.cs",
+              "RelativeToolTip": "Dal\\Api\\IStations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:11:54.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\ICrud.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\ICrud.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\ICrud.cs",
+              "RelativeToolTip": "Dal\\Api\\ICrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:28:50.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\IDal.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\IDal.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Api\\IDal.cs",
+              "RelativeToolTip": "Dal\\Api\\IDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:11:51.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Station.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\Models\\Station.cs",
+              "RelativeToolTip": "Dal\\Models\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:10:16.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\WeatherForecast.cs",
+              "RelativeToolTip": "Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:42:05.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "101_14.12.2024.json",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\JSON_FILES\\101_14.12.2024.json",
+              "RelativeDocumentMoniker": "Dal\\JSON_FILES\\101_14.12.2024.json",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Dal\\JSON_FILES\\101_14.12.2024.json",
+              "RelativeToolTip": "Dal\\JSON_FILES\\101_14.12.2024.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T23:43:10.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Measurement.cs",
+              "DocumentMoniker": "M:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD #c\\summaryProject\\Bl\\Models\\Measurement.cs",
+              "ToolTip": "M:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD #c\\summaryProject\\Bl\\Models\\Measurement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:00:56.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\#c\\meteorologicaleService\\summaryProject\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T22:06:25.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

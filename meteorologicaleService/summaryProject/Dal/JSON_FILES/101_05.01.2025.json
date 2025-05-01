@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Time": "17:52:04",
+    "Temperature": -8.03,
+    "Rainfall": 39.07,
+    "WindSpeed": 4.54
+  },
+  {
+    "Time": "19:52:04",
+    "Temperature": 7.69,
+    "Rainfall": 40.69,
+    "WindSpeed": 10.01
+  },
+  {
+    "Time": "16:52:04",
+    "Temperature": 820.56,
+    "Rainfall": 26.59,
+    "WindSpeed": 20.84
+  },
+  {
+    "Time": "07:52:04",
+    "Temperature": 118.23,
+    "Rainfall": 46.51,
+    "WindSpeed": 13.24
+  },
+  {
+    "Time": "18:52:04",
+    "Temperature": -3.97,
+    "Rainfall": 23.94,
+    "WindSpeed": 18.0
+  },
+  {
+    "Time": "14:52:04",
+    "Temperature": 28.46,
+    "Rainfall": 6.34,
+    "WindSpeed": 5.54
+  }
+]

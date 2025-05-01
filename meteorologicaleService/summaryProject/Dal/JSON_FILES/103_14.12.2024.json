@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Time": "06:00:00",
+    "Temperature": -0.54,
+    "Rainfall": 1.01,
+    "WindSpeed": 16.32
+  },
+  {
+    "Time": "07:00:00",
+    "Temperature": 4.62,
+    "Rainfall": 48.79,
+    "WindSpeed": 9.63
+  },
+  {
+    "Time": "08:00:00",
+    "Temperature": -4.0,
+    "Rainfall": 17.8,
+    "WindSpeed": 13.12
+  },
+  {
+    "Time": "09:00:00",
+    "Temperature": 4.0,
+    "Rainfall": 37.55,
+    "WindSpeed": 26.88
+  },
+  {
+    "Time": "10:00:00",
+    "Temperature": 28.47,
+    "Rainfall": 32.31,
+    "WindSpeed": 8.76
+  }
+]

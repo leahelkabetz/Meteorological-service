@@ -1,0 +1,130 @@
+/* עיצוב למסגרת הטופס */
+.login-form, .create-station-form {
+  width: 100%;
+  max-width: 500px;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+
+h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-family: 'Lato', sans-serif;
+  color:#455c72;
+}  
+
+.input-login {
+  padding: 12px 18px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  transition: all 0.3s ease;
+  width: calc(100% - 40px);  /* הוזלתי את הרוחב כדי להשאיר מקום לעין */
+}
+
+.input-login_ {
+  padding: 12px 18px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto; 
+  width: 50%;
+}
+
+input:focus {
+  border-color: rgba(0, 123, 255, 0.3);
+  box-shadow: 0 0 5px rgba(5, 31, 59, 0.3);
+}
+
+input::placeholder {
+  color: #aaa;
+  opacity: 0.8;
+}
+
+.login-button, .create-button {
+  padding: 8px 12px; /* הקטנתי את הפדינג */
+  background-color: #455c72;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px; /* הקטנתי את הגודל */
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;  /* ממורכז */
+  width: 50%; /* לא 100%, אלא אורך טבעי */
+}
+
+ .login-button:hover {
+  background-color: #2c3e50;
+} 
+
+.login-button:active {
+  background-color: #2c3e50;
+}
+
+button:disabled {
+  background-color: #b0c4de;
+  cursor: not-allowed;
+}
+
+/* הודעות שגיאה */
+.error-message {
+  color: #d9534f;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.password-container {
+  position: relative;
+  width: 100%;
+}
+
+.password-input {
+  padding: 12px 18px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  transition: all 0.3s ease;
+  width: calc(100% - 40px);  /* הוזלתי את הרוחב כדי להשאיר מקום לעין */
+}
+
+.eye-icon {
+  position: absolute;
+  right: 10px;  /* מיקום כפתור העין בצד ימין */
+  top: 50%;
+  transform: translateY(-50%);  /* ליישור אנכי מדויק */
+  background: none;
+  border: none;
+  color: #555;
+  font-size: 20px;
+  cursor: pointer;
+  outline: none;
+}
+
+

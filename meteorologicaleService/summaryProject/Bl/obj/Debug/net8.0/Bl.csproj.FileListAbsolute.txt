@@ -1,0 +1,136 @@
+C:\Users\משתמש\Desktop\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\משתמש\Desktop\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+C:\Users\משתמש\Desktop\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
+C:\Users\משתמש\Desktop\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+M:\פרויקט סיכום #c\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+M:\פרויקט סיכום #c\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+M:\פרויקט סיכום #c\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+M:\פרויקט סיכום #c\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+M:\פרויקט סיכום #c\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+M:\פרויקט סיכום #c\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+M:\פרויקט סיכום #c\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\Meteorological service\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+E:\לימודים\פרויקט סיכום #c\מוכן סופייי ברוך ה\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
+M:\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+M:\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+M:\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+M:\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+M:\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+M:\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+M:\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+E:\לימודים\פרויקט סיכום #c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\כיתה יד\#c\MeteorologicaleService\summaryProject\Bl\obj\Debug\net8.0\ref\Bl.dll
