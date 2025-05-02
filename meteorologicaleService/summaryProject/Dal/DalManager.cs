@@ -19,7 +19,7 @@ namespace Dal
         {
             ServiceCollection serCollection = new ServiceCollection();
             serCollection.AddDbContext<mycontext>(options =>
-             options.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\משתמש\\Desktop\\כיתה יד\\#c\\MeteorologicaleService\\summaryProject\\measuringStations_DB.mdf\";Integrated Security=True;Connect Timeout=30"));
+             options.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\משתמש\\Desktop\\pro_metorology\\Meteorological-service\\meteorologicaleService\\summaryProject\\measuringStations_DB.mdf;Integrated Security=True;Connect Timeout=30"));
 
             serCollection.AddSingleton<mycontext>();
             serCollection.AddScoped<IStations, StationService>();

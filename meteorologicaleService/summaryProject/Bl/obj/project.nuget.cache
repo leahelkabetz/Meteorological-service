@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5JtclYtFctU=",
+  "dgSpecHash": "L+p5S2xXj70=",
   "success": true,
-  "projectFilePath": "C:\\Users\\משתמש\\Desktop\\כיתה יד\\#c\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
+  "projectFilePath": "C:\\Users\\משתמש\\Desktop\\pro_metorology\\Meteorological-service\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

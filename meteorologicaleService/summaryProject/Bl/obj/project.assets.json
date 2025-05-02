@@ -4760,11 +4760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\כיתה יד\\#c\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
+      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\pro_metorology\\Meteorological-service\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
       "projectName": "Bl",
-      "projectPath": "C:\\Users\\משתמש\\Desktop\\כיתה יד\\#c\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
+      "projectPath": "C:\\Users\\משתמש\\Desktop\\pro_metorology\\Meteorological-service\\meteorologicaleService\\summaryProject\\Bl\\Bl.csproj",
       "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\משתמש\\Desktop\\כיתה יד\\#c\\MeteorologicaleService\\summaryProject\\Bl\\obj\\",
+      "outputPath": "C:\\Users\\משתמש\\Desktop\\pro_metorology\\Meteorological-service\\meteorologicaleService\\summaryProject\\Bl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4786,8 +4786,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\משתמש\\Desktop\\כיתה יד\\#c\\meteorologicaleService\\summaryProject\\Dal\\Dal.csproj": {
-              "projectPath": "C:\\Users\\משתמש\\Desktop\\כיתה יד\\#c\\meteorologicaleService\\summaryProject\\Dal\\Dal.csproj"
+            "C:\\Users\\משתמש\\Desktop\\pro_metorology\\Meteorological-service\\meteorologicaleService\\summaryProject\\Dal\\Dal.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\Desktop\\pro_metorology\\Meteorological-service\\meteorologicaleService\\summaryProject\\Dal\\Dal.csproj"
             }
           }
         }

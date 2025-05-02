@@ -7,12 +7,12 @@ const SearchMeasurements = () => {
   const [measurements, setMeasurements] = useState<any>(null);
   const [message, setMessage] = useState<string>('');
   const [selectedDate, setSelectedDate] = useState<string | null>(null);
-  const [loading, setLoading] = useState<boolean>(false); // מצב טעינה
+  const [loading, setLoading] = useState<boolean>(false); 
 
   const handleSearchById = async () => {
     setMessage('');
-    setMeasurements(null); // איפוס הנתונים הקודמים לפני חיפוש חדש
-    setLoading(true); // הפעלת האנימציה (הכפתור נשאר פעיל)
+    setMeasurements(null); 
+    setLoading(true); 
 
     try {
       const response = await fetch(`http://localhost:5196/api/meteorologicalService/station/${stationId}`);
@@ -33,6 +33,21 @@ const SearchMeasurements = () => {
     setSelectedDate(selectedDate === date ? null : date);
   };
 
+  // פונקציה להמיר תאריך לפורמט קריא
+  const formatDate = (date: string) => {
+    const dateObj = new Date(date);
+    return dateObj.toLocaleDateString('he-IL'); 
+  };
+
+  // פונקציה למיון התאריכים בסדר כרונולוגי
+  const sortedMeasurements = measurements
+    ? Object.entries(measurements).sort(([dateA], [dateB]) => {
+        const dateAObj = new Date(dateA);
+        const dateBObj = new Date(dateB);
+        return dateAObj.getTime() - dateBObj.getTime(); // מיון מהישן לחדש
+      })
+    : [];
+
   return (
     <div className="search-container">
       <div className="search-field">
@@ -52,11 +67,9 @@ const SearchMeasurements = () => {
       >
         {loading ? (
           <div className="loader"></div> // הצגת האנימציה
-        ) : ''
-        }
-        <>
-            Search <Search className="search-icon" />
-          </>
+        ) : (
+          <>Search <Search className="search-icon" /></>
+        )}
       </button>
 
       {message && <p className="error-message">{message}</p>}
@@ -64,10 +77,10 @@ const SearchMeasurements = () => {
         <div className="results">
           <h3 className="station-header">Measurements for Station {stationId}</h3>
           <div className="measurement-list">
-            {Object.entries(measurements).map(([dateKey, data]) => (
+            {sortedMeasurements.map(([dateKey, data]) => (
               <div key={dateKey} className="date-section">
                 <button className="date-button" onClick={() => handleToggleDate(dateKey)}>
-                  {dateKey}
+                  {formatDate(dateKey)} 
                 </button>
                 {selectedDate === dateKey && (
                   <div className="measurements">
