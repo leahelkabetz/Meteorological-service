@@ -1,7 +1,48 @@
-This is a full-stack project built with a C# (.NET Core) backend and a React frontend. The system is designed to manage and display daily weather measurements collected by various measurement stations. On the server side, station information is stored in a SQL database and includes: station number, address, city, and the name of the person in charge. Each station saves a daily JSON file named using the station number and the date (e.g., 101__05.01.2025.json). Each JSON file contains a list of weather measurements for that day, including: time of measurement, temperature, rainfall amount, and wind speed.
+# Meteorological Station System
 
-The backend is built using ASP.NET Core Web API and connects to a SQL Server database using Entity Framework. It includes business logic that loads station data from the database, reads JSON files from a local directory, processes the data, and returns processed results through RESTful API endpoints. On the frontend, the React app uses Axios to fetch data from the API and displays the list of stations and their daily summaries using tables and charts in a clear and user-friendly way. The interface uses Material UI for styling and is responsive for mobile use.
+## Project Overview
+This project is a full-stack application designed to manage and display weather data collected by meteorological stations. It includes:
 
-The project is structured with a clear separation of concerns: DAL (Data Access Layer) for database interaction, BL (Business Logic) for processing, and API as the communication layer with the frontend. The client side includes modular, reusable components. Measurement files are loaded dynamically by station and date. The system can be extended to store measurement data in the database rather than just in files, allow file uploads via the interface, manage user authentication and roles, and support advanced filtering by date, temperature, rainfall, and more.
+1. **C# Backend (ASP.NET Core)** – Connects to a SQL database, handles business logic, and serves data via API.
+2. **React Frontend** – Sends API requests and displays stations and measurements in a clear, styled UI.
+3. **JSON Files Handling** – Daily measurement files are parsed and processed for display.
 
-Technologies used: C# ASP.NET Core, SQL Server, Entity Framework, React, Axios, Material UI, and JSON. This project demonstrates the full development flow from database and file handling to business logic, API exposure, and modern client-side UI – a complete example of an end-to-end system.
+The system is useful for environmental monitoring, data analysis, or as a base for IoT data dashboards.
+
+---
+
+## Technologies Used
+- **Backend Language**: C#
+- **Frontend Library**: React
+- **Database**: SQL Server
+- **Styling**: Material UI
+- **Libraries**: `Entity Framework Core`, `Axios`, `System.IO`, `System.Text.Json`
+- **Design Patterns**: Layered architecture (DAL, BL, API), REST API, file parsing
+
+---
+
+## System Structure
+- Stations are stored in the database with: Station ID, Address, City, and Supervisor Name.
+- Each station saves a **daily JSON file** named using the format `StationID__dd.MM.yyyy.json`.
+- Each file contains multiple records with: Measurement Time, Temperature, Rainfall (mm), Wind Speed (km/h).
+
+---
+
+## How to Run
+1. Make sure the SQL Server is running and the connection string is configured.
+2. Place measurement JSON files inside the configured data directory.
+3. Run the backend (`dotnet run`) – it loads the DB and parses the files.
+4. Start the frontend (`npm start`) – React sends requests and renders the data.
+5. Use the interface to view station info and summaries (by station/date).
+6. Easily extend to include new filters, upload functionality, or persist daily data into the DB.
+
+---
+
+## Highlights
+- **Clean Separation of Concerns** – DAL handles SQL, BL processes logic, API communicates with the frontend.
+- **Interactive UI** – Responsive React interface using Material UI and chart/table components.
+- **Modular Design** – Easily add more features like date filtering, user roles, authentication, etc.
+
+---
+
+## Example File Name
