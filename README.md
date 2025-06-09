@@ -43,6 +43,5 @@ The system is useful for environmental monitoring, data analysis, or as a base f
 - **Interactive UI** – Responsive React interface using Material UI and chart/table components.
 - **Modular Design** – Easily add more features like date filtering, user roles, authentication, etc.
 
----
 
-## Example File Name
+
